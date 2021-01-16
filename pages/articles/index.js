@@ -1,10 +1,14 @@
+import Link from 'next/link';
+
 function Articles(props) {
   return (
     <div>
       <h1>Articles</h1>
       <ul>
         <li>
-          <a href="articles/js-survey">2020 JS Survey</a>
+          <Link href="/articles/js-survey">
+            <a>2020 JS Survey</a>
+          </Link>
         </li>
       </ul>
     </div>
