@@ -1,12 +1,12 @@
-# Next.JS
+# Next.js
 
-> Learn Next.JS 🚀
+> Learn Next.js 🚀
 
-> with [Next.JS Official](https://nextjs.org/) & [Codelab Youtube Channel](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg)
+> with [Next.js Official](https://nextjs.org/) & [YJD Codelab Youtube Channel](https://www.youtube.com/channel/UC7SGsu80wfuTyQWo-PKatvg)
 
 # Features
 
-> Next.JS의 여러가지 특징에 대해서 알아보자
+> Next.js의 여러가지 특징에 대해서 알아보자 🥸
 
 ## Pages
 
