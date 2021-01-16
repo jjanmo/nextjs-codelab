@@ -11,6 +11,7 @@ function Articles(props) {
           </Link>
         </li>
       </ul>
+      <a href="/">Go To Home</a>
     </div>
   );
 }
